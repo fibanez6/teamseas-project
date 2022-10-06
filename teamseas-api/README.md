@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## GraphQL Sandbox
+
+![List](./images/teamseas-api-graphql-sandbox.png)
+
 ## Stack
 
 * [@nestjs 9.0.0](https://github.com/nestjs/nest)

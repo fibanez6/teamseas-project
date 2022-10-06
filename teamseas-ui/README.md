@@ -1,3 +1,15 @@
+# Teamseas
+
+Basic React project for donations and leaderboard.
+
+## Home page
+
+![List](./images/teamseas-ui-main.png)
+
+## Donation Form
+
+![List](./images/teamseas-ui-details.png)
+
 ## Stack
 
 * [React 18.2.0](https://reactjs.org/)
