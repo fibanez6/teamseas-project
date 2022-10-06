@@ -138,6 +138,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## License
+## References
 
-Nest is [MIT licensed](LICENSE).
+* [mariusespejo/team-seas-clone](https://github.com/mariusespejo/team-seas-clone) - [youtube](https://www.youtube.com/watch?v=lddaR8Y-gko)

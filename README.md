@@ -26,6 +26,6 @@ Basic project putting together Nest, Prisma, GraphQL, React.
 
 ![List](./teamseas-api/images/teamseas-api-graphql-sandbox.png)
 
-## Reference
+## References
 
 * [mariusespejo/team-seas-clone](https://github.com/mariusespejo/team-seas-clone) - [youtube](https://www.youtube.com/watch?v=lddaR8Y-gko)
