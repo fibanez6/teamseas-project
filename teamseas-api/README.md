@@ -34,7 +34,7 @@
 
 * [@nestjs 9.0.0](https://github.com/nestjs/nest)
   * ValidationPipe
-* [@nestjs/graphql 10.1.2](https://docs.nestjs.com/graphql/quick-start)
+* [Graphql 16.6.0](https://docs.nestjs.com/graphql/quick-start)
   * Schema first
   * Apollo Driver
   * [Subscriptions](https://www.apollographql.com/docs/react/data/subscriptions/)
