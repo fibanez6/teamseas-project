@@ -21,8 +21,8 @@ Basic project putting together Nest, Prisma, GraphQL, React.
 <p align="center">
     <a href="https://reactjs.org/" target="blank"><img src="./teamseas-ui/logos/react-logo.png" width="100" alt="React logo"/></a>
     <a href="https://chakra-ui.com/" target="blank"><img src="./teamseas-ui/logos/chakra-logo.jpeg" width="100" alt="Mui logo"/></a>
-    <a href="https://graphql.org/" target="blank"><img src="./teamseas-ui/logos/graphql-logo.png" width="100" alt="GraphQl logo"/></a>
     <a href="https://formidable.com/open-source/urql/" target="blank"><img src="./teamseas-ui/logos/urql-logo.png" width="100" alt="Urql logo"/></a>
+    <a href="https://graphql.org/" target="blank"><img src="./teamseas-ui/logos/graphql-logo.png" width="100" alt="GraphQl logo"/></a>
 </p>
 
 ## Teamseas-ui
