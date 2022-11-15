@@ -2,6 +2,13 @@
 
 Basic React project for donations and leaderboard.
 
+<p align="center">
+  <a href="https://reactjs.org/" target="blank"><img src="./logos/react-logo.png" width="100" alt="React logo"/></a>
+  <a href="https://chakra-ui.com/" target="blank"><img src="./logos/chakra-logo.jpeg" width="100" alt="Mui logo"/></a>
+  <a href="https://graphql.org/" target="blank"><img src="./logos/graphql-logo.png" width="100" alt="GraphQl logo"/></a>
+  <a href="https://formidable.com/open-source/urql/" target="blank"><img src="./logos/urql-logo.png" width="100" alt="Urql logo"/></a>
+</p>
+
 ## Home page
 
 ![List](./images/teamseas-ui-main.png)
