@@ -1,5 +1,6 @@
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="./logos/nestjs-logo.svg" width="100" alt="Nest Logo"/></a>
+  <a href="https://nodejs.org/en/" target="blank"><img src="./logos/node-logo.webp" width="100" alt="Nodejs logo"/></a>
   <a href="https://www.prisma.io/" target="blank"><img src="./logos/prisma-logo.webp" width="100" alt="Prisma Logo"/></a>
   <a href="https://graphql.org/" target="blank"><img src="../teamseas-ui/logos/graphql-logo.png" width="100" alt="GraphQl logo"/></a>
 </p>
